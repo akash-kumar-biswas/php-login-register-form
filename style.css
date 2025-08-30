@@ -84,3 +84,12 @@ p a{
 p a:hover{
     text-decoration: underline;
 }
+
+.alert {
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+  font-size: 14px;
+}
+.alert.success { background: #e6ffed; color: #065f46; }
+.alert.error   { background: #ffe6e6; color: #7f1d1d; }
