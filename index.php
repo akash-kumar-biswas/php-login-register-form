@@ -58,5 +58,6 @@ $error   = get_flash('error');
         </div>
     </div>
     <script src="script.js"></script>
+    <script src="show-form.js"></script>
 </body>
 </html>
